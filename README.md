@@ -15,7 +15,7 @@ Ensure you have Node.js (version 20) installed on your machine. You can download
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-username/todo-list.git
+   git clone https://github.com/TsoyDanil/todo-list-with-subs.git
    cd todo-list
    npm install
    npm run dev
